@@ -1,6 +1,3 @@
-
-fork from : https://github.com/bregman-arie/devops-exercises
-
 <p align="center"><img src="images/devops_exercises.png"/></p>
 
 :information_source: &nbsp;This repo contains questions and exercises on various technical topics, sometimes related to DevOps and SRE
